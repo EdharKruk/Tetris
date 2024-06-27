@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #fff;
+    color: #000;
+}
+
+canvas {
+    border: 1px solid #000;
+    background: #fff;
+}
+
+#nameInput {
+    display: none;
+    text-align: center;
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    color: black;
+}
